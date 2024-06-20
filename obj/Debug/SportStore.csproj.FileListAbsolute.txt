@@ -1,0 +1,64 @@
+C:\Users\alesh\source\repos\SportStore\obj\Debug\SportStore.csproj.AssemblyReference.cache
+C:\Users\alesh\source\repos\SportStore\obj\Debug\MainWindow.g.cs
+C:\Users\alesh\source\repos\SportStore\obj\Debug\Pages\PageAutorisation.g.cs
+C:\Users\alesh\source\repos\SportStore\obj\Debug\App.g.cs
+C:\Users\alesh\source\repos\SportStore\obj\Debug\SportStore_Content.g.cs
+C:\Users\alesh\source\repos\SportStore\obj\Debug\SportStore_MarkupCompile.cache
+C:\Users\alesh\source\repos\SportStore\obj\Debug\SportStore_MarkupCompile.lref
+C:\Users\alesh\source\repos\SportStore\bin\Debug\SportStore.exe.config
+C:\Users\alesh\source\repos\SportStore\bin\Debug\SportStore.exe
+C:\Users\alesh\source\repos\SportStore\bin\Debug\SportStore.pdb
+C:\Users\alesh\source\repos\SportStore\bin\Debug\EntityFramework.dll
+C:\Users\alesh\source\repos\SportStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alesh\source\repos\SportStore\bin\Debug\EntityFramework.xml
+C:\Users\alesh\source\repos\SportStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alesh\source\repos\SportStore\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\alesh\source\repos\SportStore\obj\Debug\MainWindow.baml
+C:\Users\alesh\source\repos\SportStore\obj\Debug\Pages\PageAutorisation.baml
+C:\Users\alesh\source\repos\SportStore\obj\Debug\SportStore.g.resources
+C:\Users\alesh\source\repos\SportStore\obj\Debug\SportStore.Properties.Resources.resources
+C:\Users\alesh\source\repos\SportStore\obj\Debug\SportStore.csproj.GenerateResource.cache
+C:\Users\alesh\source\repos\SportStore\obj\Debug\SportStore.csproj.CoreCompileInputs.cache
+C:\Users\alesh\source\repos\SportStore\obj\Debug\SportStore.csproj.CopyComplete
+C:\Users\alesh\source\repos\SportStore\obj\Debug\SportStore.exe
+C:\Users\alesh\source\repos\SportStore\obj\Debug\SportStore.pdb
+C:\Users\alesh\source\repos\SportStore\obj\Debug\Pages\PageAdmin.g.cs
+C:\Users\alesh\source\repos\SportStore\obj\Debug\Pages\PageAdmin.baml
+C:\Users\alesh\source\repos\SportStore\obj\Debug\Pages\PageManager.g.cs
+C:\Users\alesh\source\repos\SportStore\obj\Debug\Pages\PageСlient.g.cs
+C:\Users\alesh\source\repos\SportStore\obj\Debug\Pages\PageManager.baml
+C:\Users\alesh\source\repos\SportStore\obj\Debug\Pages\PageСlient.baml
+C:\Users\alesh\source\repos\SportStore\obj\Debug\Pages\PageGuest.g.cs
+C:\Users\alesh\source\repos\SportStore\obj\Debug\Pages\PageGuest.baml
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\bin\Debug\SportStore.exe.config
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\bin\Debug\SportStore.exe
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\bin\Debug\SportStore.pdb
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\bin\Debug\EntityFramework.dll
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\bin\Debug\EntityFramework.xml
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\SportStore.csproj.AssemblyReference.cache
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\MainWindow.g.cs
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\Pages\PageAdmin.g.cs
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\Pages\PageAutorisation.g.cs
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\Pages\PageGuest.g.cs
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\Pages\PageManager.g.cs
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\Pages\PageСlient.g.cs
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\App.g.cs
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\SportStore_Content.g.cs
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\SportStore_MarkupCompile.cache
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\SportStore_MarkupCompile.lref
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\MainWindow.baml
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\Pages\PageAdmin.baml
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\Pages\PageAutorisation.baml
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\Pages\PageGuest.baml
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\Pages\PageManager.baml
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\Pages\PageСlient.baml
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\SportStore.g.resources
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\SportStore.Properties.Resources.resources
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\SportStore.csproj.GenerateResource.cache
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\SportStore.csproj.CoreCompileInputs.cache
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\SportStore.csproj.Up2Date
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\SportStore.exe
+C:\Users\alesh\OneDrive\Рабочий стол\SportStore\obj\Debug\SportStore.pdb
